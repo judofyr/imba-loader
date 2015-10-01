@@ -1,0 +1,19 @@
+{
+  "name": "imba-loader",
+  "version": "1.0.0",
+  "description": "Imba loader for Webpack",
+  "main": "imba-loader.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judofyr/imba-loader.git"
+  },
+  "author": "Magnus Holm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/judofyr/imba-loader/issues"
+  },
+  "homepage": "https://github.com/judofyr/imba-loader#readme",
+  "dependencies": {
+    "imba": "^0.13.0"
+  }
+}
