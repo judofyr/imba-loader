@@ -12,7 +12,7 @@ $ npm install --save imba-loader
 
 Hook it up in `webpack.config.js`:
 
-```json
+```javascript
 module.exports = {
   resolve: {
     extensions: ['', '.js', '.imba']
