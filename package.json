@@ -1,6 +1,6 @@
 {
   "name": "imba-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Imba loader for Webpack",
   "main": "imba-loader.js",
   "repository": {
