@@ -13,7 +13,7 @@
     "url": "https://github.com/judofyr/imba-loader/issues"
   },
   "homepage": "https://github.com/judofyr/imba-loader#readme",
-  "dependencies": {
-    "imba": "^0.13.0"
+  "peerDependencies": {
+    "imba": "*"
   }
 }
