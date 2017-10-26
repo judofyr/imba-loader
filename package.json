@@ -1,6 +1,6 @@
 {
   "name": "imba-loader",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Imba loader for Webpack",
   "main": "imba-loader.js",
   "repository": {
@@ -13,7 +13,10 @@
     "url": "https://github.com/judofyr/imba-loader/issues"
   },
   "homepage": "https://github.com/judofyr/imba-loader#readme",
+  "devDependencies": {
+    "imba": "^1.0.0"
+  },
   "peerDependencies": {
-    "imba": "*"
+    "imba": "^1.0.0"
   }
 }
